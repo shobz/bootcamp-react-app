@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.dayLight{
+  background-color: yellow;
+}
 
 .App-logo {
   height: 40vmin;
