@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
+import Dinner from './dinner';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello World</h1>
+    <div className="App"> 
+    {/* <Dinner></Dinner> */}
+    <Dinner dishName="nihari" sweetDish="Kheer" />
     </div>
   );
 }
